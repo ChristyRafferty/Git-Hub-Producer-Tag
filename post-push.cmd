@@ -1,0 +1,3 @@
+#!/bin/sh
+
+powershell.exe -NoProfile -ExecutionPolicy Bypass -Command "(New-Object Media.SoundPlayer 'C:\Users\bafan\Git Hooks\ChrisProducerTag.Wav').PlaySync()"
