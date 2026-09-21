@@ -36,3 +36,5 @@ The audio is played on the local computer. It is not played through GitHub.
 - A valid PCM WAV file
 
 Producer tag hook test.
+
+Final automatic hook test.
