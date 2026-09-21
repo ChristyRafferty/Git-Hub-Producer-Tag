@@ -34,3 +34,5 @@ The audio is played on the local computer. It is not played through GitHub.
 - Git
 - PowerShell
 - A valid PCM WAV file
+
+Producer tag hook test.
